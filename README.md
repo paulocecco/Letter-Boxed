@@ -54,8 +54,6 @@ import nltk
 nltk.download('words')
 ```
 
----
-
 ## Key Fixes & Improvements
 
 Feel free to fork, star, or submit a pull request if you want to improve performance, integrate a GUI, or extend support for alternative word lists.
