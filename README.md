@@ -31,3 +31,13 @@ boxes = {
 
 # Find all valid 3-word chains
 find_word_chains(steps=3, boxes=boxes)
+```
+
+# Requirements
+* `collections`
+* `nltk`
+
+```python
+pip install collections
+pip install nltk
+```
